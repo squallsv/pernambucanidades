@@ -1,0 +1,7 @@
+{ 
+	"name": "Pernambucanidades", 
+	"description": "Esse app serve para buscar pontos turísticos em Pernambuco", 
+	"launch_path": "/index.html", 
+	"developer": { "name": "Cassio Lima", "url": "http://twitter.com/cassioblima" }, 
+	"default_locale": "en" 
+}

@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<arquivo>
+  <cabecalho>
+    <descricao  resumo="Apresenta as informações das mídias (Fotos e Vídeos) dos Pontos Turísticos de Pernambuco."/>
+    <criador  autor="Empresa de Turismo de Pernambuco"  produtor="Empresa de Turismo de Pernambuco"/>
+    <sigla  autor="EMPETUR"  produtor="EMPETUR"/>
+    <assuntos>
+      <assunto  categoria="Turismo"/>
+    </assuntos>
+    <titulo  principal="As mídias (fotos e vídeos) de alguns Pontos Turísticos do Estado de Pernambuco."/>
+    <fonte  origem="Empresa de Turismo de Pernambuco"/>
+    <data  criacao="2013-07-19"  publicacao="2013-07-19"/>
+    <abrangencia  temporal="2013-07-19/2013-07-19"/>
+    <periodicidade_atualizacao  frequencia="1"  unidade="Semana"/>
+  </cabecalho>
+  <corpo>
+    <cabecalho  campo1="id"  campo2="idponto"  campo3="nome"  campo4="url"  campo5="tipo" />
+    <registros>
+      <registro  campo1="356" campo2="4207" campo3="Pernambuco é só Chegar!" campo4="http://www.youtube.com/embed/mTxme6sSsnA" campo5="Video"/>
+      <registro  campo1="357" campo2="4207" campo3="Clip EMPETUR (Turismo PE)" campo4="http://www.youtube.com/embed/IMga0D34mJ8" campo5="Video"/>
+      <registro  campo1="358" campo2="4207" campo3="Pernambuco de Braços Abertos" campo4="http://www.youtube.com/embed/0L0KetxUJDg" campo5="Video"/>
+      <registro  campo1="359" campo2="4207" campo3="Campanha Sentidos (Turismo PE)" campo4="http://www.youtube.com/embed/9U2yKjkkJ-s" campo5="Video"/>
+      <registro  campo1="701" campo2="1610" campo3="Campanha Sentidos (Turismo PE)" campo4="http://www.youtube.com/embed/9U2yKjkkJ-s" campo5="Video"/>
+      <registro  campo1="702" campo2="1610" campo3="Pernambuco de Braços Abertos" campo4="http://www.youtube.com/embed/0L0KetxUJDg" campo5="Video"/>
+      <registro  campo1="703" campo2="1610" campo3="Pernambuco é só Chegar" campo4="http://www.youtube.com/embed/eGrDvXh-VyY" campo5="Video"/>
+      <registro  campo1="819" campo2="5306" campo3="Campanha Sentidos (Turismo PE)" campo4="http://www.youtube.com/embed/9U2yKjkkJ-s" campo5="Video"/>
+      <registro  campo1="820" campo2="5306" campo3="Pernambuco é só Chegar" campo4="http://www.youtube.com/embed/eGrDvXh-VyY" campo5="Video"/>
+      <registro  campo1="821" campo2="5306" campo3="Clip EMPETUR (Turismo PE)" campo4="http://www.youtube.com/embed/IMga0D34mJ8" campo5="Video"/>
+      <registro  campo1="822" campo2="5306" campo3="Pernambuco é só Chegar" campo4="http://www.youtube.com/embed/mTxme6sSsnA" campo5="Video"/>
+      <registro  campo1="823" campo2="5306" campo3="Pernambuco é só Chegar" campo4="http://www.youtube.com/embed/acNtcuRsFcI" campo5="Video"/>
+      <registro  campo1="824" campo2="5306" campo3="Pernambuco de Braços Abertos" campo4="http://www.youtube.com/embed/0L0KetxUJDg" campo5="Video"/>
+      <registro  campo1="17558" campo2="1603" campo3="monitoramento" campo4="/image/image_gallery?image_id=17560" campo5="Foto"/>
+      <registro  campo1="17562" campo2="1603" campo3="terminal" campo4="/image/image_gallery?image_id=17564" campo5="Foto"/>
+      <registro  campo1="20223" campo2="5306" campo3="1335199594178upload_00004834" campo4="/image/image_gallery?image_id=20225" campo5="Foto"/>
+      <registro  campo1="20227" campo2="5306" campo3="1335199708741upload_00004836" campo4="/image/image_gallery?image_id=20229" campo5="Foto"/>
+      <registro  campo1="20235" campo2="5306" campo3="1335199921272upload_00004840" campo4="/image/image_gallery?image_id=20237" campo5="Foto"/>
+      <registro  campo1="20239" campo2="5306" campo3="1335199942409upload_00004842" campo4="/image/image_gallery?image_id=20241" campo5="Foto"/>
+      <registro  campo1="20243" campo2="5306" campo3="1335200104538upload_00004844" campo4="/image/image_gallery?image_id=20245" campo5="Foto"/>
+      <registro  campo1="20247" campo2="5306" campo3="1335200234328upload_00004846" campo4="/image/image_gallery?image_id=20249" campo5="Foto"/>
+      <registro  campo1="20251" campo2="5306" campo3="1335200353908upload_00004848" campo4="/image/image_gallery?image_id=20253" campo5="Foto"/>
+      <registro  campo1="20255" campo2="4207" campo3="1335200820879upload_00004852" campo4="/image/image_gallery?image_id=20257" campo5="Foto"/>
+      <registro  campo1="20259" campo2="4207" campo3="1335200848116upload_00004854" campo4="/image/image_gallery?image_id=20261" campo5="Foto"/>
+      <registro  campo1="20263" campo2="4207" campo3="1335201222858upload_00004856" campo4="/image/image_gallery?image_id=20265" campo5="Foto"/>
+      <registro  campo1="20275" campo2="4207" campo3="1335201631833upload_00004862" campo4="/image/image_gallery?image_id=20277" campo5="Foto"/>
+      <registro  campo1="20279" campo2="4207" campo3="1335202027443upload_00004864" campo4="/image/image_gallery?image_id=20281" campo5="Foto"/>
+      <registro  campo1="20283" campo2="4207" campo3="1335202146105upload_00004866" campo4="/image/image_gallery?image_id=20285" campo5="Foto"/>
+      <registro  campo1="20287" campo2="4207" campo3="1335202258734upload_00004868" campo4="/image/image_gallery?image_id=20289" campo5="Foto"/>
+      <registro  campo1="20291" campo2="4207" campo3="1335202428564upload_00004870" campo4="/image/image_gallery?image_id=20293" campo5="Foto"/>
+      <registro  campo1="20295" campo2="4207" campo3="1335202581658upload_00004872" campo4="/image/image_gallery?image_id=20297" campo5="Foto"/>
+      <registro  campo1="20403" campo2="1610" campo3="1335205183389upload_00004878" campo4="/image/image_gallery?image_id=20405" campo5="Foto"/>
+      <registro  campo1="20407" campo2="1610" campo3="1335205263625upload_00004880" campo4="/image/image_gallery?image_id=20409" campo5="Foto"/>
+      <registro  campo1="20411" campo2="1610" campo3="1335205343472upload_00004882" campo4="/image/image_gallery?image_id=20413" campo5="Foto"/>
+      <registro  campo1="20415" campo2="4207" campo3="1335206762666upload_00004884" campo4="/image/image_gallery?image_id=20417" campo5="Foto"/>
+      <registro  campo1="36275" campo2="10810" campo3="10810-ELDORADO SUBMARINO1367326218625" campo4="/image/image_gallery?image_id=36277" campo5="Foto"/>
+      <registro  campo1="36508" campo2="10804" campo3="1367523723146upload_00011304" campo4="/image/image_gallery?image_id=36510" campo5="Foto"/>
+      <registro  campo1="36579" campo2="10811" campo3="10811-Edição 2013 da Campanha Mais Noronha é lançada1367598420839" campo4="/image/image_gallery?image_id=36581" campo5="Foto"/>
+      <registro  campo1="36583" campo2="10833" campo3="10833-Pernambuco ganha guia voltado para o turismo religioso1367598517718" campo4="/image/image_gallery?image_id=36585" campo5="Foto"/>
+      <registro  campo1="36722" campo2="9015" campo3="9015-Mercado Público de Gravatá1367848274821" campo4="/image/image_gallery?image_id=36724" campo5="Foto"/>
+      <registro  campo1="36735" campo2="11105" campo3="11105-Cachoeira da Palmeira - Gravatá1367850587921" campo4="/image/image_gallery?image_id=36737" campo5="Foto"/>
+      <registro  campo1="36801" campo2="10905" campo3="10905-Memorial J.Borges1367938318495" campo4="/image/image_gallery?image_id=36803" campo5="Foto"/>
+      <registro  campo1="36807" campo2="10905" campo3="1368014222510upload_00000607" campo4="/image/image_gallery?image_id=36809" campo5="Foto"/>
+      <registro  campo1="36811" campo2="10837" campo3="1368014437139upload_00000636" campo4="/image/image_gallery?image_id=36813" campo5="Foto"/>
+      <registro  campo1="36815" campo2="11013" campo3="1368015356043upload_00000671" campo4="/image/image_gallery?image_id=36817" campo5="Foto"/>
+      <registro  campo1="36819" campo2="11013" campo3="1368017167671upload_00000722" campo4="/image/image_gallery?image_id=36821" campo5="Foto"/>
+      <registro  campo1="36823" campo2="10953" campo3="1368017271957upload_00000749" campo4="/image/image_gallery?image_id=36825" campo5="Foto"/>
+      <registro  campo1="36827" campo2="11109" campo3="1368017405952upload_00000776" campo4="/image/image_gallery?image_id=36829" campo5="Foto"/>
+      <registro  campo1="36831" campo2="11109" campo3="1368017425905upload_00000778" campo4="/image/image_gallery?image_id=36833" campo5="Foto"/>
+      <registro  campo1="36835" campo2="11109" campo3="1368017449386upload_00000780" campo4="/image/image_gallery?image_id=36837" campo5="Foto"/>
+      <registro  campo1="36839" campo2="7436" campo3="1368017583558upload_00000782" campo4="/image/image_gallery?image_id=36841" campo5="Foto"/>
+      <registro  campo1="36847" campo2="7436" campo3="1368017614079upload_00000786" campo4="/image/image_gallery?image_id=36849" campo5="Foto"/>
+      <registro  campo1="36851" campo2="7427" campo3="1368017858207upload_00000813" campo4="/image/image_gallery?image_id=36853" campo5="Foto"/>
+      <registro  campo1="36855" campo2="7427" campo3="1368017877613upload_00000815" campo4="/image/image_gallery?image_id=36857" campo5="Foto"/>
+      <registro  campo1="36859" campo2="7427" campo3="1368017898338upload_00000817" campo4="/image/image_gallery?image_id=36861" campo5="Foto"/>
+      <registro  campo1="36863" campo2="7427" campo3="1368017952680upload_00000819" campo4="/image/image_gallery?image_id=36865" campo5="Foto"/>
+      <registro  campo1="36867" campo2="7427" campo3="1368017983303upload_00000821" campo4="/image/image_gallery?image_id=36869" campo5="Foto"/>
+      <registro  campo1="36871" campo2="7426" campo3="1368018109599upload_00000848" campo4="/image/image_gallery?image_id=36873" campo5="Foto"/>
+      <registro  campo1="36875" campo2="7426" campo3="1368018122740upload_00000850" campo4="/image/image_gallery?image_id=36877" campo5="Foto"/>
+      <registro  campo1="36879" campo2="7426" campo3="1368018153422upload_00000852" campo4="/image/image_gallery?image_id=36881" campo5="Foto"/>
+      <registro  campo1="36883" campo2="10889" campo3="1368018282734upload_00000879" campo4="/image/image_gallery?image_id=36885" campo5="Foto"/>
+      <registro  campo1="36887" campo2="10885" campo3="1368018417563upload_00000881" campo4="/image/image_gallery?image_id=36889" campo5="Foto"/>
+      <registro  campo1="36891" campo2="10885" campo3="1368018431124upload_00000883" campo4="/image/image_gallery?image_id=36893" campo5="Foto"/>
+      <registro  campo1="36895" campo2="10942" campo3="1368018578366upload_00000885" campo4="/image/image_gallery?image_id=36897" campo5="Foto"/>
+      <registro  campo1="36899" campo2="10942" campo3="1368018597356upload_00000887" campo4="/image/image_gallery?image_id=37001" campo5="Foto"/>
+      <registro  campo1="36907" campo2="10836" campo3="1368013176001upload_00000551" campo4="/image/image_gallery?image_id=36909" campo5="Foto"/>
+      <registro  campo1="36911" campo2="10836" campo3="1368013255511upload_00000553" campo4="/image/image_gallery?image_id=36913" campo5="Foto"/>
+      <registro  campo1="36928" campo2="10821" campo3="1368016852430upload_00000686" campo4="/image/image_gallery?image_id=36930" campo5="Foto"/>
+      <registro  campo1="36932" campo2="10821" campo3="1368016899141upload_00000688" campo4="/image/image_gallery?image_id=36934" campo5="Foto"/>
+      <registro  campo1="36936" campo2="10820" campo3="1368017579113upload_00000790" campo4="/image/image_gallery?image_id=36938" campo5="Foto"/>
+      <registro  campo1="36940" campo2="7436" campo3="1368017606504upload_00000792" campo4="/image/image_gallery?image_id=36942" campo5="Foto"/>
+      <registro  campo1="36940" campo2="10820" campo3="1368017606504upload_00000792" campo4="/image/image_gallery?image_id=36942" campo5="Foto"/>
+      <registro  campo1="36944" campo2="10820" campo3="1368017661584upload_00000794" campo4="/image/image_gallery?image_id=36946" campo5="Foto"/>
+      <registro  campo1="36953" campo2="10982" campo3="1368018928668upload_00000902" campo4="/image/image_gallery?image_id=36955" campo5="Foto"/>
+      <registro  campo1="36957" campo2="10982" campo3="1368018980885upload_00000906" campo4="/image/image_gallery?image_id=36959" campo5="Foto"/>
+      <registro  campo1="36962" campo2="9311" campo3="1368019336728upload_00000908" campo4="/image/image_gallery?image_id=36964" campo5="Foto"/>
+      <registro  campo1="36966" campo2="9311" campo3="1368019395588upload_00000910" campo4="/image/image_gallery?image_id=36968" campo5="Foto"/>
+      <registro  campo1="36970" campo2="9311" campo3="1368019421056upload_00000912" campo4="/image/image_gallery?image_id=36972" campo5="Foto"/>
+      <registro  campo1="36974" campo2="9311" campo3="1368019434056upload_00000939" campo4="/image/image_gallery?image_id=36976" campo5="Foto"/>
+      <registro  campo1="36978" campo2="9304" campo3="1368019479639upload_00000941" campo4="/image/image_gallery?image_id=36980" campo5="Foto"/>
+      <registro  campo1="36982" campo2="9304" campo3="1368019496958upload_00000943" campo4="/image/image_gallery?image_id=36984" campo5="Foto"/>
+      <registro  campo1="36986" campo2="10977" campo3="1368019610780upload_00000945" campo4="/image/image_gallery?image_id=36988" campo5="Foto"/>
+      <registro  campo1="36990" campo2="10977" campo3="1368019629966upload_00000947" campo4="/image/image_gallery?image_id=36992" campo5="Foto"/>
+      <registro  campo1="36994" campo2="10977" campo3="1368019643819upload_00000949" campo4="/image/image_gallery?image_id=36996" campo5="Foto"/>
+      <registro  campo1="36998" campo2="10977" campo3="1368019675811upload_00000951" campo4="/image/image_gallery?image_id=37000" campo5="Foto"/>
+      <registro  campo1="37003" campo2="10942" campo3="1368018706371upload_00000889" campo4="/image/image_gallery?image_id=37005" campo5="Foto"/>
+      <registro  campo1="37007" campo2="10942" campo3="1368018722390upload_00000891" campo4="/image/image_gallery?image_id=37009" campo5="Foto"/>
+      <registro  campo1="37011" campo2="7431" campo3="1368018839036upload_00000893" campo4="/image/image_gallery?image_id=37013" campo5="Foto"/>
+      <registro  campo1="37015" campo2="7431" campo3="1368018858576upload_00000895" campo4="/image/image_gallery?image_id=37017" campo5="Foto"/>
+      <registro  campo1="37019" campo2="7431" campo3="1368018883322upload_00000897" campo4="/image/image_gallery?image_id=37021" campo5="Foto"/>
+      <registro  campo1="37023" campo2="7431" campo3="1368018899977upload_00000899" campo4="/image/image_gallery?image_id=37025" campo5="Foto"/>
+      <registro  campo1="37027" campo2="7431" campo3="1368018915601upload_00000901" campo4="/image/image_gallery?image_id=37029" campo5="Foto"/>
+      <registro  campo1="37102" campo2="10977" campo3="1368019694248upload_00000953" campo4="/image/image_gallery?image_id=37104" campo5="Foto"/>
+      <registro  campo1="37106" campo2="10820" campo3="1368019974542upload_00000955" campo4="/image/image_gallery?image_id=37108" campo5="Foto"/>
+      <registro  campo1="37110" campo2="10983" campo3="1368020255478upload_00000982" campo4="/image/image_gallery?image_id=37112" campo5="Foto"/>
+      <registro  campo1="37114" campo2="7762" campo3="1368020283169upload_00000984" campo4="/image/image_gallery?image_id=37116" campo5="Foto"/>
+      <registro  campo1="37118" campo2="7762" campo3="1368020304954upload_00000986" campo4="/image/image_gallery?image_id=37120" campo5="Foto"/>
+      <registro  campo1="37122" campo2="8716" campo3="1368020305370upload_00000988" campo4="/image/image_gallery?image_id=37124" campo5="Foto"/>
+      <registro  campo1="37126" campo2="8716" campo3="1368020324720upload_00000990" campo4="/image/image_gallery?image_id=37128" campo5="Foto"/>
+      <registro  campo1="37130" campo2="7762" campo3="1368020329509upload_00000992" campo4="/image/image_gallery?image_id=37132" campo5="Foto"/>
+      <registro  campo1="37130" campo2="8716" campo3="1368020329509upload_00000992" campo4="/image/image_gallery?image_id=37132" campo5="Foto"/>
+      <registro  campo1="37134" campo2="8716" campo3="1368020341564upload_00000994" campo4="/image/image_gallery?image_id=37136" campo5="Foto"/>
+      <registro  campo1="37138" campo2="8716" campo3="1368020353440upload_00000996" campo4="/image/image_gallery?image_id=37140" campo5="Foto"/>
+      <registro  campo1="37142" campo2="8716" campo3="1368020368499upload_00000998" campo4="/image/image_gallery?image_id=37144" campo5="Foto"/>
+      <registro  campo1="37146" campo2="10957" campo3="1368020469116upload_00001000" campo4="/image/image_gallery?image_id=37148" campo5="Foto"/>
+      <registro  campo1="37150" campo2="10832" campo3="1368020474906upload_00001002" campo4="/image/image_gallery?image_id=37152" campo5="Foto"/>
+      <registro  campo1="37154" campo2="10957" campo3="1368020488750upload_00001004" campo4="/image/image_gallery?image_id=37156" campo5="Foto"/>
+      <registro  campo1="37158" campo2="10832" campo3="1368020503674upload_00001006" campo4="/image/image_gallery?image_id=37160" campo5="Foto"/>
+      <registro  campo1="37162" campo2="10832" campo3="1368020525725upload_00001008" campo4="/image/image_gallery?image_id=37164" campo5="Foto"/>
+      <registro  campo1="37166" campo2="7549" campo3="1368020546498upload_00001010" campo4="/image/image_gallery?image_id=37168" campo5="Foto"/>
+      <registro  campo1="37170" campo2="7549" campo3="1368020568187upload_00001012" campo4="/image/image_gallery?image_id=37172" campo5="Foto"/>
+      <registro  campo1="37174" campo2="7549" campo3="1368020581302upload_00001014" campo4="/image/image_gallery?image_id=37176" campo5="Foto"/>
+      <registro  campo1="37178" campo2="10559" campo3="1368021100298upload_00001076" campo4="/image/image_gallery?image_id=37180" campo5="Foto"/>
+      <registro  campo1="37182" campo2="10559" campo3="1368021120660upload_00001078" campo4="/image/image_gallery?image_id=37184" campo5="Foto"/>
+      <registro  campo1="37186" campo2="10559" campo3="1368021161347upload_00001080" campo4="/image/image_gallery?image_id=37188" campo5="Foto"/>
+      <registro  campo1="37190" campo2="10559" campo3="1368021177343upload_00001082" campo4="/image/image_gallery?image_id=37192" campo5="Foto"/>
+      <registro  campo1="37198" campo2="10559" campo3="1368021210478upload_00001086" campo4="/image/image_gallery?image_id=37200" campo5="Foto"/>
+      <registro  campo1="37202" campo2="10559" campo3="1368021233337upload_00001088" campo4="/image/image_gallery?image_id=37204" campo5="Foto"/>
+      <registro  campo1="37206" campo2="10559" campo3="1368021251594upload_00001090" campo4="/image/image_gallery?image_id=37208" campo5="Foto"/>
+      <registro  campo1="37210" campo2="7506" campo3="1368021355901upload_00001092" campo4="/image/image_gallery?image_id=37212" campo5="Foto"/>
+      <registro  campo1="37214" campo2="7506" campo3="1368021380540upload_00001094" campo4="/image/image_gallery?image_id=37216" campo5="Foto"/>
+      <registro  campo1="37218" campo2="7506" campo3="1368021400196upload_00001096" campo4="/image/image_gallery?image_id=37220" campo5="Foto"/>
+      <registro  campo1="37238" campo2="9306" campo3="1368022602909upload_00001131" campo4="/image/image_gallery?image_id=37240" campo5="Foto"/>
+      <registro  campo1="37242" campo2="9306" campo3="1368022625928upload_00001133" campo4="/image/image_gallery?image_id=37244" campo5="Foto"/>
+      <registro  campo1="37248" campo2="11204" campo3="11204-Instituto Ricardo Brennand, um passeio pela história1368031895756" campo4="/image/image_gallery?image_id=37250" campo5="Foto"/>
+      <registro  campo1="37253" campo2="11205" campo3="11205-Tour pelo Recife sobre duas rodas1368032326111" campo4="/image/image_gallery?image_id=37255" campo5="Foto"/>
+      <registro  campo1="37428" campo2="10104" campo3="1368620214878upload_00007800" campo4="/image/image_gallery?image_id=37430" campo5="Foto"/>
+      <registro  campo1="37433" campo2="10104" campo3="1368620273847upload_00007827" campo4="/image/image_gallery?image_id=37435" campo5="Foto"/>
+      <registro  campo1="37439" campo2="9199" campo3="1368620811992upload_00007879" campo4="/image/image_gallery?image_id=37441" campo5="Foto"/>
+      <registro  campo1="37461" campo2="9016" campo3="1368626329285upload_00008381" campo4="/image/image_gallery?image_id=37463" campo5="Foto"/>
+      <registro  campo1="37465" campo2="9016" campo3="1368626370534upload_00008383" campo4="/image/image_gallery?image_id=37467" campo5="Foto"/>
+      <registro  campo1="37469" campo2="10895" campo3="1368626970339upload_00008385" campo4="/image/image_gallery?image_id=37471" campo5="Foto"/>
+      <registro  campo1="37473" campo2="10895" campo3="1368627012786upload_00008387" campo4="/image/image_gallery?image_id=37475" campo5="Foto"/>
+      <registro  campo1="37477" campo2="11219" campo3="1368627217470upload_00008414" campo4="/image/image_gallery?image_id=37479" campo5="Foto"/>
+      <registro  campo1="37552" campo2="7408" campo3="1369052205339upload_00010786" campo4="/image/image_gallery?image_id=37554" campo5="Foto"/>
+      <registro  campo1="37556" campo2="7408" campo3="1369052240909upload_00010788" campo4="/image/image_gallery?image_id=37558" campo5="Foto"/>
+      <registro  campo1="37560" campo2="11337" campo3="1369052947559upload_00010792" campo4="/image/image_gallery?image_id=37562" campo5="Foto"/>
+      <registro  campo1="37607" campo2="7503" campo3="1368723201898upload_00009717" campo4="/image/image_gallery?image_id=37609" campo5="Foto"/>
+      <registro  campo1="37611" campo2="7503" campo3="1368723252793upload_00009719" campo4="/image/image_gallery?image_id=37613" campo5="Foto"/>
+      <registro  campo1="37615" campo2="7505" campo3="1368726442665upload_00010021" campo4="/image/image_gallery?image_id=37617" campo5="Foto"/>
+      <registro  campo1="37619" campo2="7505" campo3="1368726468490upload_00010023" campo4="/image/image_gallery?image_id=37621" campo5="Foto"/>
+      <registro  campo1="37646" campo2="10094" campo3="1369058430912upload_00011757" campo4="/image/image_gallery?image_id=37648" campo5="Foto"/>
+      <registro  campo1="37650" campo2="10094" campo3="1369058450609upload_00011759" campo4="/image/image_gallery?image_id=37652" campo5="Foto"/>
+      <registro  campo1="37654" campo2="10094" campo3="1369058469157upload_00011761" campo4="/image/image_gallery?image_id=37656" campo5="Foto"/>
+      <registro  campo1="37658" campo2="7760" campo3="1369058891114upload_00011788" campo4="/image/image_gallery?image_id=37660" campo5="Foto"/>
+      <registro  campo1="37890" campo2="8939" campo3="1369314900551upload_00015126" campo4="/image/image_gallery?image_id=37892" campo5="Foto"/>
+      <registro  campo1="37894" campo2="8939" campo3="1369314910374upload_00015128" campo4="/image/image_gallery?image_id=37896" campo5="Foto"/>
+      <registro  campo1="38001" campo2="8939" campo3="1369314918433upload_00015155" campo4="/image/image_gallery?image_id=38003" campo5="Foto"/>
+      <registro  campo1="38005" campo2="8939" campo3="1369314929718upload_00015157" campo4="/image/image_gallery?image_id=38007" campo5="Foto"/>
+      <registro  campo1="38009" campo2="8939" campo3="1369314937848upload_00015159" campo4="/image/image_gallery?image_id=38011" campo5="Foto"/>
+      <registro  campo1="38013" campo2="8939" campo3="1369314946019upload_00015161" campo4="/image/image_gallery?image_id=38015" campo5="Foto"/>
+      <registro  campo1="38017" campo2="8939" campo3="1369314965174upload_00015163" campo4="/image/image_gallery?image_id=38019" campo5="Foto"/>
+      <registro  campo1="38021" campo2="8939" campo3="1369314978318upload_00015165" campo4="/image/image_gallery?image_id=38023" campo5="Foto"/>
+      <registro  campo1="38046" campo2="11558" campo3="1369316438816upload_00015343" campo4="/image/image_gallery?image_id=38048" campo5="Foto"/>
+      <registro  campo1="38050" campo2="11558" campo3="1369316447804upload_00015345" campo4="/image/image_gallery?image_id=38052" campo5="Foto"/>
+      <registro  campo1="38054" campo2="11551" campo3="1369316559395upload_00015347" campo4="/image/image_gallery?image_id=38056" campo5="Foto"/>
+      <registro  campo1="38058" campo2="11551" campo3="1369316580065upload_00015349" campo4="/image/image_gallery?image_id=38060" campo5="Foto"/>
+      <registro  campo1="38062" campo2="11352" campo3="1369316846444upload_00015351" campo4="/image/image_gallery?image_id=38064" campo5="Foto"/>
+      <registro  campo1="38066" campo2="11352" campo3="1369316861309upload_00015353" campo4="/image/image_gallery?image_id=38068" campo5="Foto"/>
+      <registro  campo1="38070" campo2="11352" campo3="1369316925521upload_00015355" campo4="/image/image_gallery?image_id=38072" campo5="Foto"/>
+      <registro  campo1="38074" campo2="9098" campo3="1369317028438upload_00015357" campo4="/image/image_gallery?image_id=38076" campo5="Foto"/>
+      <registro  campo1="38078" campo2="9098" campo3="1369317642115upload_00015359" campo4="/image/image_gallery?image_id=38080" campo5="Foto"/>
+      <registro  campo1="38082" campo2="9098" campo3="1369317654781upload_00015361" campo4="/image/image_gallery?image_id=38084" campo5="Foto"/>
+      <registro  campo1="38086" campo2="8937" campo3="1369317726830upload_00015363" campo4="/image/image_gallery?image_id=38088" campo5="Foto"/>
+      <registro  campo1="38090" campo2="8937" campo3="1369317743173upload_00015365" campo4="/image/image_gallery?image_id=38092" campo5="Foto"/>
+      <registro  campo1="38094" campo2="8937" campo3="1369317760866upload_00015367" campo4="/image/image_gallery?image_id=38096" campo5="Foto"/>
+      <registro  campo1="38098" campo2="8941" campo3="1369317829179upload_00015369" campo4="/image/image_gallery?image_id=38100" campo5="Foto"/>
+      <registro  campo1="38102" campo2="8941" campo3="1369317838529upload_00015371" campo4="/image/image_gallery?image_id=38104" campo5="Foto"/>
+      <registro  campo1="38106" campo2="8941" campo3="1369317847734upload_00015373" campo4="/image/image_gallery?image_id=38108" campo5="Foto"/>
+      <registro  campo1="38110" campo2="11558" campo3="1369317932526upload_00015400" campo4="/image/image_gallery?image_id=38112" campo5="Foto"/>
+      <registro  campo1="38123" campo2="11493" campo3="11493-Gastronomia e cultura pernambucana para o mundo conhecer1369327571465" campo4="/image/image_gallery?image_id=38125" campo5="Foto"/>
+      <registro  campo1="38516" campo2="11314" campo3="1369743310794upload_00000290" campo4="/image/image_gallery?image_id=38518" campo5="Foto"/>
+      <registro  campo1="38520" campo2="11314" campo3="1369743327811upload_00000292" campo4="/image/image_gallery?image_id=38522" campo5="Foto"/>
+      <registro  campo1="38524" campo2="11314" campo3="1369743343291upload_00000294" campo4="/image/image_gallery?image_id=38526" campo5="Foto"/>
+      <registro  campo1="38528" campo2="7405" campo3="1369743403421upload_00000296" campo4="/image/image_gallery?image_id=38530" campo5="Foto"/>
+      <registro  campo1="38532" campo2="7405" campo3="1369743477149upload_00000298" campo4="/image/image_gallery?image_id=38534" campo5="Foto"/>
+      <registro  campo1="38537" campo2="7411" campo3="1369743927938upload_00000300" campo4="/image/image_gallery?image_id=38539" campo5="Foto"/>
+      <registro  campo1="38541" campo2="7411" campo3="1369743948600upload_00000302" campo4="/image/image_gallery?image_id=38543" campo5="Foto"/>
+      <registro  campo1="38602" campo2="10083" campo3="1369674536049upload_00000027" campo4="/image/image_gallery?image_id=38604" campo5="Foto"/>
+      <registro  campo1="38606" campo2="10083" campo3="1369674639289upload_00000029" campo4="/image/image_gallery?image_id=38608" campo5="Foto"/>
+      <registro  campo1="38610" campo2="10083" campo3="1369674653946upload_00000031" campo4="/image/image_gallery?image_id=38612" campo5="Foto"/>
+      <registro  campo1="38614" campo2="8782" campo3="1369674869911upload_00000033" campo4="/image/image_gallery?image_id=38616" campo5="Foto"/>
+      <registro  campo1="38618" campo2="8782" campo3="1369674885329upload_00000035" campo4="/image/image_gallery?image_id=38620" campo5="Foto"/>
+      <registro  campo1="38622" campo2="8782" campo3="1369674897971upload_00000037" campo4="/image/image_gallery?image_id=38624" campo5="Foto"/>
+      <registro  campo1="38626" campo2="8782" campo3="1369674909669upload_00000039" campo4="/image/image_gallery?image_id=38628" campo5="Foto"/>
+      <registro  campo1="38630" campo2="8777" campo3="1369675130486upload_00000041" campo4="/image/image_gallery?image_id=38632" campo5="Foto"/>
+      <registro  campo1="38634" campo2="8777" campo3="1369675783772upload_00000043" campo4="/image/image_gallery?image_id=38636" campo5="Foto"/>
+      <registro  campo1="38638" campo2="8777" campo3="1369675797653upload_00000045" campo4="/image/image_gallery?image_id=38640" campo5="Foto"/>
+      <registro  campo1="38642" campo2="9012" campo3="1369675994557upload_00000047" campo4="/image/image_gallery?image_id=38644" campo5="Foto"/>
+      <registro  campo1="38646" campo2="9012" campo3="1369676005240upload_00000049" campo4="/image/image_gallery?image_id=38648" campo5="Foto"/>
+      <registro  campo1="38650" campo2="9012" campo3="1369676016720upload_00000051" campo4="/image/image_gallery?image_id=38652" campo5="Foto"/>
+      <registro  campo1="38654" campo2="8783" campo3="1369676202105upload_00000053" campo4="/image/image_gallery?image_id=38656" campo5="Foto"/>
+      <registro  campo1="38658" campo2="8783" campo3="1369676216584upload_00000055" campo4="/image/image_gallery?image_id=38660" campo5="Foto"/>
+      <registro  campo1="38662" campo2="8783" campo3="1369676227099upload_00000057" campo4="/image/image_gallery?image_id=38664" campo5="Foto"/>
+      <registro  campo1="38666" campo2="8783" campo3="1369676236832upload_00000059" campo4="/image/image_gallery?image_id=38668" campo5="Foto"/>
+      <registro  campo1="38670" campo2="8783" campo3="1369676330461upload_00000061" campo4="/image/image_gallery?image_id=38672" campo5="Foto"/>
+      <registro  campo1="38674" campo2="9013" campo3="1369676428584upload_00000063" campo4="/image/image_gallery?image_id=38676" campo5="Foto"/>
+      <registro  campo1="38678" campo2="9013" campo3="1369676438540upload_00000065" campo4="/image/image_gallery?image_id=38680" campo5="Foto"/>
+      <registro  campo1="38682" campo2="8933" campo3="1369676945550upload_00000067" campo4="/image/image_gallery?image_id=38684" campo5="Foto"/>
+      <registro  campo1="38686" campo2="8933" campo3="1369676964027upload_00000069" campo4="/image/image_gallery?image_id=38688" campo5="Foto"/>
+      <registro  campo1="38690" campo2="8933" campo3="1369676984038upload_00000071" campo4="/image/image_gallery?image_id=38692" campo5="Foto"/>
+      <registro  campo1="38694" campo2="8933" campo3="1369677001383upload_00000073" campo4="/image/image_gallery?image_id=38696" campo5="Foto"/>
+      <registro  campo1="38698" campo2="8933" campo3="1369677023561upload_00000075" campo4="/image/image_gallery?image_id=38700" campo5="Foto"/>
+      <registro  campo1="38702" campo2="8933" campo3="1369677043788upload_00000077" campo4="/image/image_gallery?image_id=38704" campo5="Foto"/>
+      <registro  campo1="38706" campo2="8933" campo3="1369677059380upload_00000079" campo4="/image/image_gallery?image_id=38708" campo5="Foto"/>
+      <registro  campo1="38710" campo2="8933" campo3="1369677119995upload_00000081" campo4="/image/image_gallery?image_id=38712" campo5="Foto"/>
+      <registro  campo1="38717" campo2="8933" campo3="1369744552042upload_00000158" campo4="/image/image_gallery?image_id=38719" campo5="Foto"/>
+      <registro  campo1="38721" campo2="8933" campo3="1369744574975upload_00000160" campo4="/image/image_gallery?image_id=38723" campo5="Foto"/>
+      <registro  campo1="38725" campo2="8927" campo3="1369744762201upload_00000162" campo4="/image/image_gallery?image_id=38727" campo5="Foto"/>
+      <registro  campo1="38729" campo2="8927" campo3="1369744772815upload_00000164" campo4="/image/image_gallery?image_id=38731" campo5="Foto"/>
+      <registro  campo1="38733" campo2="8927" campo3="1369744782462upload_00000166" campo4="/image/image_gallery?image_id=38735" campo5="Foto"/>
+      <registro  campo1="38737" campo2="8927" campo3="1369744794711upload_00000168" campo4="/image/image_gallery?image_id=38739" campo5="Foto"/>
+      <registro  campo1="38741" campo2="8926" campo3="1369744856879upload_00000170" campo4="/image/image_gallery?image_id=38743" campo5="Foto"/>
+      <registro  campo1="38757" campo2="7418" campo3="1369914364492upload_00000297" campo4="/image/image_gallery?image_id=38759" campo5="Foto"/>
+      <registro  campo1="38761" campo2="7418" campo3="1369914409926upload_00000299" campo4="/image/image_gallery?image_id=38763" campo5="Foto"/>
+      <registro  campo1="38769" campo2="8926" campo3="1369915187156upload_00000326" campo4="/image/image_gallery?image_id=38771" campo5="Foto"/>
+      <registro  campo1="38773" campo2="8926" campo3="1369915340848upload_00000328" campo4="/image/image_gallery?image_id=38775" campo5="Foto"/>
+      <registro  campo1="38781" campo2="8924" campo3="1369916052499upload_00000355" campo4="/image/image_gallery?image_id=38783" campo5="Foto"/>
+      <registro  campo1="38785" campo2="8924" campo3="1369916168471upload_00000357" campo4="/image/image_gallery?image_id=38787" campo5="Foto"/>
+      <registro  campo1="38789" campo2="8934" campo3="1369916390709upload_00000359" campo4="/image/image_gallery?image_id=38791" campo5="Foto"/>
+      <registro  campo1="38794" campo2="8934" campo3="1369916469043upload_00000361" campo4="/image/image_gallery?image_id=38796" campo5="Foto"/>
+      <registro  campo1="38804" campo2="8925" campo3="1369917849379upload_00000464" campo4="/image/image_gallery?image_id=38806" campo5="Foto"/>
+      <registro  campo1="38808" campo2="8925" campo3="1369918220288upload_00000466" campo4="/image/image_gallery?image_id=38810" campo5="Foto"/>
+      <registro  campo1="38816" campo2="7408" campo3="1369918905914upload_00000493" campo4="/image/image_gallery?image_id=38818" campo5="Foto"/>
+      <registro  campo1="38859" campo2="8736" campo3="1370008119850upload_00001120" campo4="/image/image_gallery?image_id=38861" campo5="Foto"/>
+      <registro  campo1="38863" campo2="8736" campo3="1370008137692upload_00001122" campo4="/image/image_gallery?image_id=38865" campo5="Foto"/>
+      <registro  campo1="38868" campo2="10956" campo3="1370008277202upload_00001149" campo4="/image/image_gallery?image_id=38870" campo5="Foto"/>
+      <registro  campo1="38876" campo2="10954" campo3="1370009237404upload_00001153" campo4="/image/image_gallery?image_id=38878" campo5="Foto"/>
+      <registro  campo1="38880" campo2="10954" campo3="1370009249646upload_00001155" campo4="/image/image_gallery?image_id=38882" campo5="Foto"/>
+      <registro  campo1="38885" campo2="7764" campo3="1370009633507upload_00001182" campo4="/image/image_gallery?image_id=38887" campo5="Foto"/>
+      <registro  campo1="38889" campo2="7764" campo3="1370009655773upload_00001184" campo4="/image/image_gallery?image_id=38891" campo5="Foto"/>
+      <registro  campo1="39032" campo2="11274" campo3="1370953165723upload_00000135" campo4="/image/image_gallery?image_id=39034" campo5="Foto"/>
+      <registro  campo1="39036" campo2="11278" campo3="1370953250435upload_00000137" campo4="/image/image_gallery?image_id=39038" campo5="Foto"/>
+      <registro  campo1="39040" campo2="11278" campo3="1370953270475upload_00000139" campo4="/image/image_gallery?image_id=39042" campo5="Foto"/>
+      <registro  campo1="39044" campo2="11278" campo3="1370953300653upload_00000141" campo4="/image/image_gallery?image_id=39046" campo5="Foto"/>
+      <registro  campo1="39048" campo2="10824" campo3="1370953676376upload_00000168" campo4="/image/image_gallery?image_id=39050" campo5="Foto"/>
+      <registro  campo1="39052" campo2="10824" campo3="1370953700088upload_00000170" campo4="/image/image_gallery?image_id=39054" campo5="Foto"/>
+      <registro  campo1="39056" campo2="9014" campo3="1370953800436upload_00000172" campo4="/image/image_gallery?image_id=39058" campo5="Foto"/>
+      <registro  campo1="39060" campo2="9014" campo3="1370953860524upload_00000174" campo4="/image/image_gallery?image_id=39062" campo5="Foto"/>
+      <registro  campo1="39064" campo2="11281" campo3="1370953968227upload_00000176" campo4="/image/image_gallery?image_id=39066" campo5="Foto"/>
+      <registro  campo1="39068" campo2="11281" campo3="1370953994289upload_00000178" campo4="/image/image_gallery?image_id=39070" campo5="Foto"/>
+      <registro  campo1="39072" campo2="10895" campo3="1370954349871upload_00000180" campo4="/image/image_gallery?image_id=39074" campo5="Foto"/>
+      <registro  campo1="39076" campo2="10895" campo3="1370954363353upload_00000182" campo4="/image/image_gallery?image_id=39078" campo5="Foto"/>
+      <registro  campo1="39080" campo2="10895" campo3="1370954374251upload_00000184" campo4="/image/image_gallery?image_id=39082" campo5="Foto"/>
+      <registro  campo1="39084" campo2="10895" campo3="1370954387340upload_00000186" campo4="/image/image_gallery?image_id=39086" campo5="Foto"/>
+      <registro  campo1="39088" campo2="11290" campo3="1370954921014upload_00000188" campo4="/image/image_gallery?image_id=39090" campo5="Foto"/>
+      <registro  campo1="39092" campo2="11290" campo3="1370954937087upload_00000190" campo4="/image/image_gallery?image_id=39094" campo5="Foto"/>
+      <registro  campo1="39096" campo2="11290" campo3="1370954952302upload_00000192" campo4="/image/image_gallery?image_id=39098" campo5="Foto"/>
+      <registro  campo1="39100" campo2="11290" campo3="1370954970496upload_00000194" campo4="/image/image_gallery?image_id=39202" campo5="Foto"/>
+      <registro  campo1="39111" campo2="10830" campo3="1370873030925upload_00000501" campo4="/image/image_gallery?image_id=39113" campo5="Foto"/>
+      <registro  campo1="39115" campo2="10830" campo3="1370873057291upload_00000503" campo4="/image/image_gallery?image_id=39117" campo5="Foto"/>
+      <registro  campo1="39119" campo2="10830" campo3="1370873084774upload_00000505" campo4="/image/image_gallery?image_id=39121" campo5="Foto"/>
+      <registro  campo1="39123" campo2="10815" campo3="1370873718618upload_00000507" campo4="/image/image_gallery?image_id=39125" campo5="Foto"/>
+      <registro  campo1="39127" campo2="10818" campo3="1370873947910upload_00000509" campo4="/image/image_gallery?image_id=39129" campo5="Foto"/>
+      <registro  campo1="39131" campo2="10818" campo3="1370874020037upload_00000511" campo4="/image/image_gallery?image_id=39133" campo5="Foto"/>
+      <registro  campo1="39135" campo2="11283" campo3="1370882429668upload_00000688" campo4="/image/image_gallery?image_id=39137" campo5="Foto"/>
+      <registro  campo1="39139" campo2="11283" campo3="1370882447821upload_00000690" campo4="/image/image_gallery?image_id=39141" campo5="Foto"/>
+      <registro  campo1="39143" campo2="9014" campo3="1370882570288upload_00000692" campo4="/image/image_gallery?image_id=39145" campo5="Foto"/>
+      <registro  campo1="39147" campo2="9014" campo3="1370882592764upload_00000694" campo4="/image/image_gallery?image_id=39149" campo5="Foto"/>
+      <registro  campo1="39151" campo2="9014" campo3="1370882620063upload_00000696" campo4="/image/image_gallery?image_id=39153" campo5="Foto"/>
+      <registro  campo1="39155" campo2="8712" campo3="1370883094543upload_00000723" campo4="/image/image_gallery?image_id=39157" campo5="Foto"/>
+      <registro  campo1="39159" campo2="8712" campo3="1370883155438upload_00000725" campo4="/image/image_gallery?image_id=39161" campo5="Foto"/>
+      <registro  campo1="39163" campo2="7504" campo3="1370883682725upload_00000752" campo4="/image/image_gallery?image_id=39165" campo5="Foto"/>
+      <registro  campo1="39167" campo2="7504" campo3="1370883699180upload_00000754" campo4="/image/image_gallery?image_id=39169" campo5="Foto"/>
+      <registro  campo1="39171" campo2="7504" campo3="1370883713329upload_00000756" campo4="/image/image_gallery?image_id=39173" campo5="Foto"/>
+      <registro  campo1="39175" campo2="8995" campo3="1370883839501upload_00000758" campo4="/image/image_gallery?image_id=39177" campo5="Foto"/>
+      <registro  campo1="39179" campo2="8995" campo3="1370883855203upload_00000760" campo4="/image/image_gallery?image_id=39181" campo5="Foto"/>
+      <registro  campo1="39183" campo2="10824" campo3="1370884076755upload_00000787" campo4="/image/image_gallery?image_id=39185" campo5="Foto"/>
+      <registro  campo1="39204" campo2="11290" campo3="1370954987573upload_00000196" campo4="/image/image_gallery?image_id=39206" campo5="Foto"/>
+      <registro  campo1="39208" campo2="11290" campo3="1370955007530upload_00000198" campo4="/image/image_gallery?image_id=39210" campo5="Foto"/>
+      <registro  campo1="39212" campo2="10100" campo3="1370958110819upload_00000425" campo4="/image/image_gallery?image_id=39214" campo5="Foto"/>
+      <registro  campo1="39216" campo2="10100" campo3="1370958127073upload_00000427" campo4="/image/image_gallery?image_id=39218" campo5="Foto"/>
+      <registro  campo1="39220" campo2="10100" campo3="1370958144605upload_00000429" campo4="/image/image_gallery?image_id=39222" campo5="Foto"/>
+      <registro  campo1="39228" campo2="10100" campo3="1370958196342upload_00000433" campo4="/image/image_gallery?image_id=39230" campo5="Foto"/>
+      <registro  campo1="39232" campo2="7398" campo3="1370958466362upload_00000435" campo4="/image/image_gallery?image_id=39234" campo5="Foto"/>
+      <registro  campo1="39236" campo2="7398" campo3="1370958487223upload_00000437" campo4="/image/image_gallery?image_id=39238" campo5="Foto"/>
+      <registro  campo1="39240" campo2="7398" campo3="1370958501473upload_00000439" campo4="/image/image_gallery?image_id=39242" campo5="Foto"/>
+      <registro  campo1="39244" campo2="7516" campo3="1370958945771upload_00000466" campo4="/image/image_gallery?image_id=39246" campo5="Foto"/>
+      <registro  campo1="39248" campo2="7762" campo3="1370960071829upload_00000518" campo4="/image/image_gallery?image_id=39250" campo5="Foto"/>
+      <registro  campo1="39252" campo2="7762" campo3="1370960107337upload_00000520" campo4="/image/image_gallery?image_id=39254" campo5="Foto"/>
+      <registro  campo1="39256" campo2="10560" campo3="1370961298797upload_00000647" campo4="/image/image_gallery?image_id=39258" campo5="Foto"/>
+      <registro  campo1="39260" campo2="10560" campo3="1370961350274upload_00000649" campo4="/image/image_gallery?image_id=39262" campo5="Foto"/>
+      <registro  campo1="39264" campo2="10560" campo3="1370961368262upload_00000651" campo4="/image/image_gallery?image_id=39266" campo5="Foto"/>
+      <registro  campo1="39268" campo2="10560" campo3="1370961387335upload_00000653" campo4="/image/image_gallery?image_id=39270" campo5="Foto"/>
+      <registro  campo1="39272" campo2="10560" campo3="1370961408627upload_00000655" campo4="/image/image_gallery?image_id=39274" campo5="Foto"/>
+      <registro  campo1="39280" campo2="11009" campo3="1371047945341upload_00001632" campo4="/image/image_gallery?image_id=39282" campo5="Foto"/>
+      <registro  campo1="39284" campo2="11009" campo3="1371047954475upload_00001634" campo4="/image/image_gallery?image_id=39286" campo5="Foto"/>
+      <registro  campo1="39288" campo2="11009" campo3="1371047964980upload_00001636" campo4="/image/image_gallery?image_id=39290" campo5="Foto"/>
+      <registro  campo1="39292" campo2="11009" campo3="1371047979263upload_00001638" campo4="/image/image_gallery?image_id=39294" campo5="Foto"/>
+      <registro  campo1="39296" campo2="11009" campo3="1371048003231upload_00001640" campo4="/image/image_gallery?image_id=39298" campo5="Foto"/>
+      <registro  campo1="39409" campo2="7402" campo3="1371477101260upload_00006289" campo4="/image/image_gallery?image_id=39411" campo5="Foto"/>
+      <registro  campo1="39413" campo2="7402" campo3="1371477112480upload_00006291" campo4="/image/image_gallery?image_id=39415" campo5="Foto"/>
+      <registro  campo1="39417" campo2="7402" campo3="1371477122899upload_00006293" campo4="/image/image_gallery?image_id=39419" campo5="Foto"/>
+      <registro  campo1="39858" campo2="7416" campo3="1372249999531upload_00000242" campo4="/image/image_gallery?image_id=39860" campo5="Foto"/>
+      <registro  campo1="39862" campo2="7416" campo3="1372250012550upload_00000244" campo4="/image/image_gallery?image_id=39864" campo5="Foto"/>
+      <registro  campo1="39866" campo2="8928" campo3="1372250061843upload_00000246" campo4="/image/image_gallery?image_id=39868" campo5="Foto"/>
+      <registro  campo1="39870" campo2="8928" campo3="1372250075479upload_00000248" campo4="/image/image_gallery?image_id=39872" campo5="Foto"/>
+      <registro  campo1="39874" campo2="8928" campo3="1372250087546upload_00000250" campo4="/image/image_gallery?image_id=39876" campo5="Foto"/>
+      <registro  campo1="39878" campo2="7507" campo3="1372250162723upload_00000277" campo4="/image/image_gallery?image_id=39880" campo5="Foto"/>
+      <registro  campo1="39882" campo2="7507" campo3="1372250174708upload_00000279" campo4="/image/image_gallery?image_id=39884" campo5="Foto"/>
+      <registro  campo1="39886" campo2="7507" campo3="1372250191977upload_00000281" campo4="/image/image_gallery?image_id=39888" campo5="Foto"/>
+      <registro  campo1="39890" campo2="10578" campo3="1372252040346upload_00000283" campo4="/image/image_gallery?image_id=39892" campo5="Foto"/>
+      <registro  campo1="39894" campo2="10578" campo3="1372252062811upload_00000285" campo4="/image/image_gallery?image_id=39896" campo5="Foto"/>
+      <registro  campo1="39898" campo2="10578" campo3="1372252075426upload_00000287" campo4="/image/image_gallery?image_id=39900" campo5="Foto"/>
+      <registro  campo1="39902" campo2="10578" campo3="1372252134562upload_00000295" campo4="/image/image_gallery?image_id=39904" campo5="Foto"/>
+      <registro  campo1="39906" campo2="10104" campo3="1372253474381upload_00000297" campo4="/image/image_gallery?image_id=39908" campo5="Foto"/>
+      <registro  campo1="39910" campo2="10104" campo3="1372253492416upload_00000299" campo4="/image/image_gallery?image_id=39912" campo5="Foto"/>
+      <registro  campo1="39914" campo2="10104" campo3="1372253517493upload_00000301" campo4="/image/image_gallery?image_id=39916" campo5="Foto"/>
+      <registro  campo1="39919" campo2="7415" campo3="1372256462197upload_00000328" campo4="/image/image_gallery?image_id=39921" campo5="Foto"/>
+      <registro  campo1="39923" campo2="7415" campo3="1372256477906upload_00000330" campo4="/image/image_gallery?image_id=39925" campo5="Foto"/>
+      <registro  campo1="39927" campo2="7415" campo3="1372256490708upload_00000332" campo4="/image/image_gallery?image_id=39929" campo5="Foto"/>
+      <registro  campo1="39931" campo2="7415" campo3="1372256503958upload_00000334" campo4="/image/image_gallery?image_id=39933" campo5="Foto"/>
+      <registro  campo1="39935" campo2="7415" campo3="1372256523375upload_00000336" campo4="/image/image_gallery?image_id=39937" campo5="Foto"/>
+      <registro  campo1="39939" campo2="9099" campo3="1372256637024upload_00000338" campo4="/image/image_gallery?image_id=39941" campo5="Foto"/>
+      <registro  campo1="39943" campo2="9099" campo3="1372256657907upload_00000340" campo4="/image/image_gallery?image_id=39945" campo5="Foto"/>
+      <registro  campo1="39949" campo2="7414" campo3="1372258110300upload_00000342" campo4="/image/image_gallery?image_id=39951" campo5="Foto"/>
+      <registro  campo1="39953" campo2="7414" campo3="1372258128763upload_00000344" campo4="/image/image_gallery?image_id=39955" campo5="Foto"/>
+      <registro  campo1="39957" campo2="7414" campo3="1372258146319upload_00000346" campo4="/image/image_gallery?image_id=39959" campo5="Foto"/>
+      <registro  campo1="39961" campo2="7414" campo3="1372258167558upload_00000348" campo4="/image/image_gallery?image_id=39963" campo5="Foto"/>
+      <registro  campo1="39965" campo2="7417" campo3="1372258250284upload_00000350" campo4="/image/image_gallery?image_id=39967" campo5="Foto"/>
+      <registro  campo1="39969" campo2="7417" campo3="1372258265490upload_00000352" campo4="/image/image_gallery?image_id=39971" campo5="Foto"/>
+      <registro  campo1="39973" campo2="7417" campo3="1372258284040upload_00000354" campo4="/image/image_gallery?image_id=39975" campo5="Foto"/>
+      <registro  campo1="39977" campo2="7417" campo3="1372258313490upload_00000356" campo4="/image/image_gallery?image_id=39979" campo5="Foto"/>
+      <registro  campo1="39981" campo2="7417" campo3="1372258365952upload_00000358" campo4="/image/image_gallery?image_id=39983" campo5="Foto"/>
+      <registro  campo1="39985" campo2="7412" campo3="1372265808050upload_00000360" campo4="/image/image_gallery?image_id=39987" campo5="Foto"/>
+      <registro  campo1="39989" campo2="7412" campo3="1372265837246upload_00000362" campo4="/image/image_gallery?image_id=39991" campo5="Foto"/>
+      <registro  campo1="39993" campo2="7412" campo3="1372265868457upload_00000364" campo4="/image/image_gallery?image_id=39995" campo5="Foto"/>
+      <registro  campo1="39997" campo2="7409" campo3="1372265944905upload_00000366" campo4="/image/image_gallery?image_id=39999" campo5="Foto"/>
+      <registro  campo1="40001" campo2="7409" campo3="1372265966881upload_00000368" campo4="/image/image_gallery?image_id=40003" campo5="Foto"/>
+      <registro  campo1="40005" campo2="7409" campo3="1372265989474upload_00000370" campo4="/image/image_gallery?image_id=40007" campo5="Foto"/>
+      <registro  campo1="40104" campo2="7517" campo3="1372358036677upload_00000026" campo4="/image/image_gallery?image_id=40106" campo5="Foto"/>
+      <registro  campo1="40305" campo2="7410" campo3="1372427082810upload_00000028" campo4="/image/image_gallery?image_id=40307" campo5="Foto"/>
+      <registro  campo1="40309" campo2="7410" campo3="1372427291822upload_00000030" campo4="/image/image_gallery?image_id=40311" campo5="Foto"/>
+      <registro  campo1="40313" campo2="8929" campo3="1372429060855upload_00000207" campo4="/image/image_gallery?image_id=40315" campo5="Foto"/>
+      <registro  campo1="40317" campo2="8929" campo3="1372429088619upload_00000209" campo4="/image/image_gallery?image_id=40319" campo5="Foto"/>
+      <registro  campo1="40322" campo2="8929" campo3="1372429581359upload_00000211" campo4="/image/image_gallery?image_id=40324" campo5="Foto"/>
+      <registro  campo1="40326" campo2="8929" campo3="1372429604605upload_00000213" campo4="/image/image_gallery?image_id=40328" campo5="Foto"/>
+      <registro  campo1="40332" campo2="7403" campo3="1372438670085upload_00000365" campo4="/image/image_gallery?image_id=40334" campo5="Foto"/>
+      <registro  campo1="40336" campo2="7403" campo3="1372438709045upload_00000367" campo4="/image/image_gallery?image_id=40338" campo5="Foto"/>
+    </registros>
+  </corpo>
+</arquivo>
